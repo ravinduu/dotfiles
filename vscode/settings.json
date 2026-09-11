@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 12,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "editor.fontFamily": "DejaVu Sans Mono",
+    "debug.console.fontSize": 12,
+    "terminal.integrated.fontSize": 12,
+    "editor.tabSize": 2,
+    "git.suggestSmartCommit": false
+}
