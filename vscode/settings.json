@@ -8,5 +8,6 @@
     "git.suggestSmartCommit": false,
     "terminal.integrated.fontFamily": "monospace",
     "workbench.sideBar.location": "right",
-    "git.autofetch": true
+    "git.autofetch": true,
+    "git.confirmSync": false
 }
