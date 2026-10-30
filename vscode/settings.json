@@ -5,5 +5,8 @@
     "debug.console.fontSize": 12,
     "terminal.integrated.fontSize": 12,
     "editor.tabSize": 2,
-    "git.suggestSmartCommit": false
+    "git.suggestSmartCommit": false,
+    "terminal.integrated.fontFamily": "monospace",
+    "workbench.sideBar.location": "right",
+    "git.autofetch": true
 }
