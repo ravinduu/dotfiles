@@ -17,6 +17,10 @@ echo "Running Git setup..."
 "$DOTFILES_DIR/scripts/git.sh"
 
 echo ""
+echo "Running Node.js setup..."
+"$DOTFILES_DIR/scripts/node.sh"
+
+echo ""
 echo "Running VS Code setup..."
 "$DOTFILES_DIR/scripts/vscode.sh"
 
